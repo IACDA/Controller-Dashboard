@@ -1,0 +1,81 @@
+body{
+  background-color: #00008B;
+}
+
+.width-100{
+	width:100% ;
+	float: left;
+}
+
+.container{
+	width: 100%;
+	margin: 0px auto;
+	height: auto;
+}
+
+.top-header{
+	background:#ADFF2F;
+	padding: 0px 0px;
+	border-bottom: 1px solid #3131315e;
+}
+
+.news-list{
+	background:#fff;
+	color: red;
+	padding:4px
+	font-size:25px;
+}
+
+.headquote{
+	font-size: 15px bold;
+	color:#191970;
+	width: 90%;
+}
+
+input{
+  width: 40%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #FF4500;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+table {
+  font-family: times;
+  border-collapse: collapse;
+  width:90%;
+  color:white;
+}
+
+td, th {
+  border: 1px solid #00008B;
+  text-align: left;
+  padding: 8px;
+}
+
+tr,th:nth-child(even) {
+  background-color: #FFFAFA;
+  color:#000000;
+}
+
+h1{
+  color:white;
+  margin-top:15px;
+  font-size:25px;
+  font-weight:bold;
+}
+h2{
+  color:yellow;
+  margin-top:10px;
+  font-size:20px;
+  font-weight:bold;
+}
+
+h3{
+  color:lavender;
+  margin-top:10px;
+  font-size:20px;
+  font-weight:bold;
+}
